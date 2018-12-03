@@ -4,7 +4,7 @@
 #include <queue>
 #include <fstream>
 
-#include "thread.h"
+#include "posix_thread_wrapper.h"
 #include "http_parser.h"
 
 using namespace std;
